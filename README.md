@@ -1,2 +1,4 @@
 # 22028043NguyenTienDat
-My first game project
+Project 70% complete
+Parameter "renderer" is invalid problem
+
